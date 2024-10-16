@@ -1,0 +1,2 @@
+A platform that automates legal documentation, featuring AI-driven document drafting, real-time chat assistance, and secure lawyer communication. Tailored to Indian legal requirements, covering various law types.
+Integrated speech-to-text, text-to-speech, and PDF generation for user convenience, while ensuring secure, confidential interactions. This solution simplifies legal processes, saves time, and increases access to legal resources
